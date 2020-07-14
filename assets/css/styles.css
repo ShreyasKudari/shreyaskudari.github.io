@@ -1,0 +1,14 @@
+.opening {
+  background-color: rgb(46,52,64);
+  height: 100vh;
+  padding-top: 10%;
+}
+
+.profilehead {
+  padding: 10px;
+}
+
+.opening.dark {
+  color: white;
+}
+
